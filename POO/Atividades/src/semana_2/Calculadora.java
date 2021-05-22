@@ -29,7 +29,7 @@ public class Calculadora {
 		System.out.print("Informe o valor de Y: ");
 		double y = leitor.nextDouble();
 		
-		System.out.print("Selecione a operação desejada: ");
+		System.out.print("Selecione a operação desejada:\n1- Soma\n2 - subtração\n3 - Multiplicação\n4 - Divisão\n");
 
 		switch (operacao = leitor.nextInt()) {
 		

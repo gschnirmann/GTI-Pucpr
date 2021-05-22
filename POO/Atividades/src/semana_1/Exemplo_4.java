@@ -22,7 +22,7 @@ public class Exemplo_4 {
 			System.out.println("Você escolheu a opção 3.");
 			break;
 		default:
-			System.out.println("Você escolheu a opção 1.");
+			System.out.println("Operação inválida.");
 			break;
 		}
 		

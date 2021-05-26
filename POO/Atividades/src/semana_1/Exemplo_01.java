@@ -1,7 +1,7 @@
 package semana_1;
 
-public class Exemplo1 {
-
+public class Exemplo_01 {
+	
 	public static void main(String[] args) {
 		int x, y;
 		

@@ -1,6 +1,6 @@
 package semana_1;
 
-public class Exemplo_5 {
+public class Exemplo_05 {
 
 	public static void main(String[] args) {
 		int i = 1;

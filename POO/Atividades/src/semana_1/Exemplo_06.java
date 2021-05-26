@@ -1,6 +1,6 @@
 package semana_1;
 
-public class Exemplo_6 {
+public class Exemplo_06 {
 
 	public static void main(String[] args) {
 		int soma = 0;

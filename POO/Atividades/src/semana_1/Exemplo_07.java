@@ -1,6 +1,6 @@
 package semana_1;
 
-public class Exemplo_7 {
+public class Exemplo_07 {
 
 	public static void main(String[] args) {
 		for (int i = 1; i <= 20; i+=3) {

@@ -1,17 +1,17 @@
 package semana_2;
 
 import java.util.Scanner;
+import java.math.*;
 
 public class Circulo {
 	float raio;
-	final static float PI = 3.1415f;
 	
 	public Circulo (float raio) {
 		this.raio = raio;
 	}
 	
-	float calcularPerimetro() {
-		return 2 * PI * this.raio;
+	double calcularPerimetro() {
+		return 2 * Math.PI * this.raio;
 	}
 	void imprimirDados() {
 		System.out.println("Círculo: \n- Raio:      " + raio + "\n- Perímetro: " + calcularPerimetro());
